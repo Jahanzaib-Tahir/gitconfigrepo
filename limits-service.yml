@@ -1,0 +1,4 @@
+application:
+ limits-service:
+  maximum=80
+  minimum=80
